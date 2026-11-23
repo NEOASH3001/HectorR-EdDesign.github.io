@@ -13,5 +13,6 @@ Education professional with experience designing curriculum, evaluating instruct
 - **Storytelling & Content Development**
 - [El Peso Hero – Feature Film Pitch Deck](projects/05-el-peso-hero-pitch.md)
 - [Camp Lucha – Animation Project](projects/06-camp-lucha.md)
+
 Contact: hecrodrigueziii@gmail.com  
 LinkedIn: https://www.linkedin.com/in/hector-rodriguez-iii-50bb3115b/
