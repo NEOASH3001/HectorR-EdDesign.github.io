@@ -25,3 +25,5 @@ Improved consistency in dual-language instruction and accelerated readiness for 
 Instructional Design · Content Development · Teacher Support · Onboarding Design
 
 Designed and developed the training materials and job aids while serving in dual-language liaison and curriculum support roles. Partnered with teachers and campus leaders to ensure the resources were practical, clear, and aligned with classroom realities.
+
+[2023-2024 Dual Language Classroom (K-5 Dual Language Teachers) (2).pdf](https://github.com/user-attachments/files/35357513/2023-2024.Dual.Language.Classroom.K-5.Dual.Language.Teachers.2.pdf)
