@@ -25,4 +25,5 @@ Supported the state’s effort to ensure higher-quality instructional materials 
 Instructional Materials Evaluation · Quality Assurance · Curriculum Alignment · Content Analysis
 
 Served as Instructional Materials Quality Evaluator for the Texas Education Agency from March 2018 to October 2021. Partnered with review teams and applied established quality frameworks to assess materials objectively and thoroughly.
+
 [3.2 - What's Your Why.pdf](https://github.com/user-attachments/files/35357159/3.2.-.What.s.Your.Why.pdf)
