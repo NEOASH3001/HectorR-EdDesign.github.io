@@ -11,8 +11,8 @@ Education professional with experience designing curriculum, evaluating instruct
 - [[Dual-Language / Onboarding-Style Training](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/4#issue-6552054860)]
 - 
 - **Storytelling & Content Development**
-- [El Peso Hero – Feature Film Pitch Deck](projects/05-el-peso-hero-pitch.md)
-- [Camp Lucha – Animation Project](projects/06-camp-lucha.md)
+- [[El Peso Hero – Feature Film Pitch Deck](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/5#issue-6552152090)]
+- [[Camp Lucha – Animation Project](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/6#issue-6552165418)]
 
 Contact: hecrodrigueziii@gmail.com  
 LinkedIn: https://www.linkedin.com/in/hector-rodriguez-iii-50bb3115b/
