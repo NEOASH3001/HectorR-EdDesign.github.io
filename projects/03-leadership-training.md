@@ -20,8 +20,10 @@ School leaders needed practical tools and shared language to recognize bias, res
 
 ## Impact
 Strengthened administrators’ ability to lead with greater cultural awareness and intentionality. Supported district-wide efforts to recruit and retain a more diverse staff and to better reflect the community’s population in school leadership and culture.
-[Copy of PLAYBOOK_ Strategies for Making Content Accessible for ELs.pdf](https://github.com/user-attachments/files/35357307/Copy.of.PLAYBOOK_.Strategies.for.Making.Content.Accessible.for.ELs.pdf)
+
 ## My Role
 Instructional Design · Professional Development · Content Development · Facilitation Support
 
 Led the design of the training content and supported delivery while partnering with district leadership. Represented the district on the District Diversity Council, connecting the training work to broader organizational goals around equity and inclusion.
+
+[Copy of PLAYBOOK_ Strategies for Making Content Accessible for ELs.pdf](https://github.com/user-attachments/files/35357307/Copy.of.PLAYBOOK_.Strategies.for.Making.Content.Accessible.for.ELs.pdf)
