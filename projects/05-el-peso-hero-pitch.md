@@ -25,3 +25,6 @@ Successfully packaged an independent comic property into a professional studio-r
 Story Development · Content Development · Narrative Design · Presentation Design
 
 Created and refined the pitch materials as the original creator and writer of *El Peso Hero*, shaping the story and presentation for a major studio audience.
+
+[EL PESO HERO Lookbook32620 (1).pdf](https://github.com/user-attachments/files/35366750/EL.PESO.HERO.Lookbook32620.1.pdf)
+
