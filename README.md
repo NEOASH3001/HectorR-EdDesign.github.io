@@ -8,7 +8,7 @@ Education professional with experience designing curriculum, evaluating instruct
 - [[Bilingual/ESL Curriculum Development](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/1#issue-6550809081)]
 - [[Instructional Materials Quality Evaluation](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/2#issue-6551963258)]
 - [[Leadership & Cultural Responsiveness Training](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/3#issue-6552001905)]
-- [Dual-Language / Onboarding-Style Training](projects/04-dual-language-training.md)
+- [[Dual-Language / Onboarding-Style Training](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/4#issue-6552054860)]
 - 
 - **Storytelling & Content Development**
 - [El Peso Hero – Feature Film Pitch Deck](projects/05-el-peso-hero-pitch.md)
