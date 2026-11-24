@@ -25,3 +25,5 @@ Advanced an original animated property into formal development discussions with 
 Story Development · Content Development · Creative Development · Collaboration
 
 Led concept and story development while partnering with Powerhouse Animation Studios to shape the project for the animation medium.
+
+[Camp Lucha - Treatment.pdf](https://github.com/user-attachments/files/35367129/Camp.Lucha.-.Treatment.pdf)
