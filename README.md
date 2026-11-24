@@ -5,7 +5,7 @@ Education professional with experience designing curriculum, evaluating instruct
 
 **Selected Work**
 
-- [[Bilingual/ESL Curriculum Development](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/1#issue-6550809081)](projects/01-bilingual-curriculum.md)
+- [[Bilingual/ESL Curriculum Development](https://github.com/NEOASH3001/HectorR-EdDesign.github.io/issues/1#issue-6550809081)]
 - [Instructional Materials Quality Evaluation](projects/02-instructional-materials.md)
 - [Leadership & Cultural Responsiveness Training](projects/03-leadership-training.md)
 - [Dual-Language / Onboarding-Style Training](projects/04-dual-language-training.md)
