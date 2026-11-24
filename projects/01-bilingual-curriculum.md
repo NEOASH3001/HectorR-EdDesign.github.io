@@ -25,3 +25,4 @@ Contributed to a 16% increase in 5th-grade math STAAR scores. Strengthened consi
 Curriculum Development · Instructional Design · Content Development · Stakeholder Collaboration
 
 Led the design and development process while partnering with teachers, administrators, and district teams to ensure materials were practical and aligned to both student needs and state requirements.
+[CD.Essential.Six.Fall.Elementary.pdf](https://github.com/user-attachments/files/35365249/CD.Essential.Six.Fall.Elementary.pdf)
